@@ -1,0 +1,23 @@
+{
+    "name": "ltdreams-jdk-api-client",
+    "version": "1.0.0",
+    "description": "A JavaScript client for LTDreams JDK API",
+    "main": "./src/index.js",
+    "type": "module",
+    "keywords": [
+        "sdk",
+        "api",
+        "client",
+        "jdk",
+        "ltdreams"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/your-org/my-jdk-api-client"
+    },
+    "author": "Your Name",
+    "license": "MIT",
+    "dependencies": {
+        "axios": "^1.10.0"
+    }
+}
